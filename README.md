@@ -6,6 +6,6 @@ The script takes as input a set of explanatory variables X and a dependent varia
 
 How to use it:
 - In Matlab initialise two variables:
-* X: [m n] set of explanatory variables
-* Y: [m 1] dependent variable
+  * X: [m n] set of explanatory variables
+  * Y: [m 1] dependent variable
 - Run the script script_model_diagnostic_tool
