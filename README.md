@@ -9,3 +9,5 @@ How to use it:
   * X: [m n] set of explanatory variables
   * Y: [m 1] dependent variable
 - Run the script script_model_diagnostic_tool.m
+
+The PDF book is also in this repository, for further references.
